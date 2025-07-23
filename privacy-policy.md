@@ -1,0 +1,41 @@
+# Privacy Policy for The Daily Motivation
+
+Effective Date: July 23, 2025
+
+The Daily Motivation ("we", "us", or "our") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use The Daily Motivation mobile application (the "App").
+
+By using the App, you consent to the practices described in this Privacy Policy.
+
+## 1. Information We Collect
+We do **not** collect or store any personal data on our servers.
+
+All data related to your use of the app (e.g., affirmations, preferences, and credits) is stored **locally** on your device. We do not access, transmit, or share any of this information externally.
+
+The only exception is anonymous crash and performance data collected by Apple to help improve the stability of the app. This data does not identify you personally.
+
+## 2. User-Generated Content
+Affirmations generated or saved by you remain on your device. You have full control over them and can delete them at any time within the app.
+
+### 2.1. Automatic Cleanup of Generated Affirmations
+To ensure smooth app performance, if the number of generated affirmations exceeds **250**, the app will automatically delete all but the **most recent** affirmation. This process happens **locally** on your device and does not involve any external data transmission or storage.
+
+## 3. Data Retention
+Since no personal data is stored externally, no retention of user data occurs on our part. All data resides on your device and is removed when the app is deleted.
+
+**Please note:** This includes any unused credits and generated affirmations. Once the app is deleted, this data cannot be recovered.
+
+## 4. Age Restriction
+The Daily Motivation is designed for general audiences and is not intended for use by children under the age of 13.
+
+## 5. Your Rights
+Because we do not store personal data, all management of data is done by you directly on your device. You can:
+- View or delete your saved affirmations
+- Reinstall the app to reset local data
+
+## 6. Changes to This Policy
+We may update this Privacy Policy to reflect any changes to our data handling practices. Updates will be posted in the app or on our website.
+
+## 7. Contact Us
+If you have any questions or concerns, please contact us at:
+📧 hello@dailymotivation.app
+
